@@ -1,0 +1,44 @@
+Python is one of the most popular programming languages. It’s simple to use, packed with features and supported by a wide range of libraries and frameworks. Its clean syntax makes it beginner-friendly.
+
+A high-level language, used in data science, automation, AI, web development and more.
+Known for its readability, which means code is easier to write, understand and maintain.
+Backed by strong library support, we don’t have to build everything from scratch.
+
+Why Learn Python?
+Requires fewer lines of code compared to other programming languages like Java.
+Provides Libraries / Frameworks like Django, Flask and many more for Web Development, and Pandas, Tensorflow, Scikit-learn and many more for, AI/ML, Data Science and Data Analysis
+Cross-platform, works on Windows, Mac and Linux without major changes.
+Used by top tech companies like Google, Netflix and NASA.
+Many Python coding job opportunities in Software Development, Data Science and AI/ML.
+Basics
+In this section, we’ll cover the basics of Python programming, including installing Python, writing first program, understanding comments and working with variables, keywords and operators. Before starting to learn python we need to install python on our system.
+
+Introduction
+Applications
+Input and Output
+Variables
+Operators
+Quiz: Basics, I/O
+Keywords
+Data Types
+Quiz: Data Types, Numbers, Boolean
+Conditional Statements
+Loops
+Quiz: Control Flow, Loops
+Functions
+In this section of Python 3 tutorial we'll explore Python function syntax, parameter handling, return values and variable scope. Along the way, we'll also introduce versatile functions like range(), map, filter and lambda functions.
+
+Functions
+Pass Statement in Function
+Global and Local Variables
+Recursion
+*args and **kwargs in Function
+‘Self’ as Default Argument
+First Class Function
+Lambda Function
+Map, Reduce and Filter Function
+Inner Function
+Decorators
+Quiz: Functions
+Data Structures
+Python offers versatile collections of data types, including lists, string, tuples, sets, dictionaries and arrays. In this section, we will learn about each data types in detail.
